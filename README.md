@@ -17,6 +17,7 @@ Este proyecto es un juego interactivo de Tic Tac Toe (Gato) desarrollado con **R
 ## 🚀 Deployment
 
 🔗 https://tictactoe-react-typescript-game-il49x8txr.vercel.app/
+    https://alejandrabarcena.github.io/tictactoe-react-game/
 
 ---
 
